@@ -1,3 +1,4 @@
-#<center>Home of my Anilist Badges.
-<center>https://ghostiespook.com/
-<center>https://badges.ghostiespook.com/
+#Home of my Anilist Badges.
+---
+https://ghostiespook.com/
+https://badges.ghostiespook.com/
