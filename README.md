@@ -1,4 +1,2 @@
-# Home of my Anilist Badges.
-https://ghostiespook.com/
-
-~~https://badges.ghostiespook.com/~~
+# Home site for Celestial COnsortium
+## Currently a wip so dont mind me!
